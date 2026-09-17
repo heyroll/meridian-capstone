@@ -116,3 +116,52 @@ Yelp reviews, the LoopNet listing, and the Pavilions closure — the three
 Amazon-related sources grouped together as asked), EXPANSIONS (the
 Sprouts source), and INDUSTRY TRENDS (the ICSC source). No source pages
 themselves were changed, only their ordering and grouping in the index.
+
+## [2026-09-17] ingest | Census QuickFacts — Pasadena Population
+
+Ingested population figures from the U.S. Census Bureau's QuickFacts
+page for Pasadena city, California
+(https://www.census.gov/quickfacts/fact/table/pasadenacitycalifornia/PST040225),
+text supplied directly by the user after the fetch tool was blocked by
+the site with an HTTP 403. Created
+`wiki/sources/census-quickfacts-pasadena-population-2026.md`, stating
+four figures: the 2010 and 2020 decennial census counts (137,122 and
+138,699), the 2020 Vintage 2025 estimates base (139,618, a revised
+figure distinct from the raw 2020 count), and the July 1, 2025 estimate
+(135,804). The page flags the reversal from slow growth (2010→2020) to
+decline (2020→2025) as a notable pattern, per the user's explicit
+instruction to draw attention to the estimate change without drawing a
+conclusion about its cause or implications. Unlike prior source pages,
+this page has no "Relevance to Meridian" section and contains no
+AI-generated conclusion. Added to the Sources section of
+`wiki/index.md` under a new "Demographics" subheading. No existing
+entity, concept, or analysis pages required updates.
+
+## [2026-09-17] edit | Changed Sources link display text in wiki/index.md
+
+At the user's request, changed how each entry in the Sources section of
+`wiki/index.md` displays its link: instead of showing the file path
+(e.g. `wiki/sources/amazon-fresh-california-closures-2026.md`) as the
+visible text, each link now displays that page's own title (its `# `
+heading), e.g. "Amazon Fresh and Amazon Go Stores Closing in
+California." The link targets themselves are unchanged. The "First
+content" entry for `raw/client-brief.md` was left as-is, since the
+request was scoped to the Sources section.
+
+## [2026-09-17] ingest | Councilmember Confirms Sprouts Will Fill Vacant Rite Aid on Hill Avenue
+
+Ingested the article at
+https://pasadenanow.com/main/councilmember-says-sprouts-will-soon-fill-the-vacant-rite-aid-on-hill-avenue
+(published September 9, 2026). Created
+`wiki/sources/sprouts-hill-avenue-confirmation-2026.md`, recording
+District 2 Councilmember Rick Cole's public confirmation that Sprouts
+will fill the former Rite Aid on Hill Avenue — the same location (1421
+E. Washington Blvd) already tracked in
+`wiki/sources/sprouts-pasadena-expansion-2026.md` as a pending, unconfirmed
+permit application from March 2026. No firm opening date is given. The
+page includes one AI-generated conclusion marked NEEDS REVIEW noting
+this upgrades the certainty of that expansion from "pending filing" to
+"publicly confirmed." Restructured the Pasadena Expansions section of
+`wiki/index.md` to add a "Sprouts" subheading (mirroring the existing
+Amazon Fresh subheading under Pasadena Closures) grouping both the March
+source and this new confirmation source together.
