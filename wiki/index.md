@@ -72,8 +72,7 @@ maintained.
   — **(grocerydive.com: December 18, 2025)** — Grocery Dive article on
   why specialty grocers (Sprouts, Whole Foods, Natural Grocers) have
   outperformed post-pandemic: wealth bifurcation, price inflation,
-  health/wellness demand, private label, and loyalty personalization.<br>
-  Contains one AI-generated conclusion marked NEEDS REVIEW.
+  health/wellness demand, private label, and loyalty personalization.
 
 ### Demographics
 

@@ -66,7 +66,7 @@
 
 ## Relevance to Meridian
 
-> **NEEDS REVIEW — AI-generated conclusion, not stated in the source.**
+> **AI-generated conclusion, not stated in the source.**
 > The article never mentions Meridian Markets. The paragraph below
 > connects its facts to Meridian's situation and is the agent's own
 > inference, not a claim the article itself makes.

@@ -415,3 +415,26 @@ claims against Meridian's own customer data, marked NEEDS REVIEW
 pending the user's decision. Added to the Industry Trends subheading of
 the Sources section in `wiki/index.md`. No existing entity, concept, or
 analysis pages required updates.
+
+## [2026-09-18] edit | Wording edits on the Grocery Dive source page
+
+At the user's request, made several wording edits to
+`wiki/sources/grocerydive-specialty-grocers-thriving-2025.md`: moved
+the "Private label as a value signal" bullet to directly after "Price
+inflation's role"; removed "disposable-" from the wealth-bifurcation
+bullet; moved the wealth-bifurcation bullet to before "Price inflation's
+role" (updating its internal cross-reference from "above" to "below"
+accordingly); changed "per Ren" to "According to the article, per Ren,"
+in the health/wellness bullet; and changed "This article gives the wiki
+its first sourced explanation of *why*" to "This article gives an
+explanation of *why*" in the Relevance to Meridian paragraph.
+
+## [2026-09-18] edit | Approved the NEEDS REVIEW conclusion on the Grocery Dive source page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/grocerydive-specialty-grocers-thriving-2025.md`: removed
+the **NEEDS REVIEW** mark, keeping the conclusion text itself unchanged
+as accepted content. Removed the corresponding "Contains one
+AI-generated conclusion marked NEEDS REVIEW" note from that source's
+entry under the Industry Trends subheading of `wiki/index.md`.
