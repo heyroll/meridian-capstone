@@ -335,3 +335,62 @@ accepted content. Removed the corresponding "Contains one AI-generated
 conclusion marked NEEDS REVIEW" note from that source's entry under the
 Amazon Fresh subheading of the Pasadena Closures section in
 `wiki/index.md`.
+
+## [2026-09-18] ingest | JLL — Grocery Tracker (2025 Grocery Report)
+
+Ingested the JLL market-research report at
+https://www.jll.com/en-us/insights/market-perspectives/grocery-tracker
+(published February 18, 2025; updated March 24, 2025). Verified the
+large majority of its cited statistics against the raw page HTML
+(downloaded to the scratchpad directory) before writing anything,
+including figures that WebFetch had surfaced from JS-rendered Flourish
+chart embeds — located the matching editorial-text paragraphs stating
+the same figures directly so they could be confirmed too. Created
+`wiki/sources/jll-grocery-tracker-2025.md`, covering the full report per
+the user's request: the dining-out-vs-grocery spending gap and foot
+traffic trends, grocery-anchored real estate fundamentals (3.5%
+vacancy, minimal new supply, rent growth, record price/sq ft),
+investment activity, 2024 grocer-by-grocer expansion figures (Aldi,
+Publix, H-E-B, Sprouts, Trader Joe's, Fresh Market, Amazon Fresh),
+notable 2024 M&A activity (including the FTC blocking Kroger-Albertsons
+in December 2024), private-label growth, and SNAP/e-commerce/retail-media
+stats. The page flags the source as JLL's own commercial market
+research. Includes one AI-generated conclusion connecting the national
+real-estate fundamentals and Sprouts' smaller-footprint growth data to
+Meridian's situation, marked NEEDS REVIEW pending the user's decision.
+Added to the Industry Trends subheading of the Sources section in
+`wiki/index.md`. No existing entity, concept, or analysis pages
+required updates.
+
+## [2026-09-18] edit | Various user-requested wording edits on the JLL source page
+
+At the user's request, made a series of small wording edits to
+`wiki/sources/jll-grocery-tracker-2025.md`: added "(Restaurant & Bars >
+Grocery Stores)" to the dining-vs-grocery spending gap bullet; added
+"(real estate demand)" after "net absorption" and "(real estate
+supply)" after "net deliveries"; changed "and grocery operators" to ",
+while grocery operators" and "became more active" to "instead became
+more active" in the investment-activity bullet (flagged to the user
+that this leaves the REITs clause without its own verb; not yet
+resolved); removed the Canadian grocers section entirely; expanded "per
+PLMA" to "per the Private Label Manufacturer Association (PLMA)";
+changed "GO Brands" to "Go Brands" (the source's own data table,
+unlike its narrative text, already spells it this way); removed
+boldface from the Real Root mention; and, after explaining that the
+private-label launches bullet only reflected the article's narrative
+paragraph rather than its full data table, added three more launches
+from that table at the user's request: Albertsons' "Overjoyed," Giant
+Food Holdings' "New Coast Foraging Company," and SpartanNash's "Finest
+Reserve." Also moved "(over 12% of the U.S. population)" earlier in the
+SNAP bullet, and changed "This report gives the wiki its first hard"
+to "This report contains hard" in the Relevance to Meridian paragraph.
+
+## [2026-09-18] edit | Approved the NEEDS REVIEW conclusion on the JLL source page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/jll-grocery-tracker-2025.md`: removed the **NEEDS
+REVIEW** mark, keeping the conclusion text itself unchanged as accepted
+content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry under the
+Industry Trends subheading of `wiki/index.md`.

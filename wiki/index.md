@@ -63,6 +63,11 @@ maintained.
   Foodservice at Retail 2025* report, showing deli-prepared foods
   displacing restaurant meals (12% → 28% preference share, 2017–2025)
   and noting a noon–5 p.m. peak purchase window.
+- ["JLL: Grocery Tracker (2025 Grocery Report)"](sources/jll-grocery-tracker-2025.md)
+  — **(jll.com: February 18, 2025)** — JLL market-research report on
+  grocery-anchored real estate fundamentals (3.5% vacancy, minimal new
+  supply, rising rents), 2024 grocer expansion by chain (including
+  Sprouts' 35 new stores), and notable grocery M&A activity.
 
 ### Demographics
 
