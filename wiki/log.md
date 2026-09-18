@@ -394,3 +394,24 @@ REVIEW** mark, keeping the conclusion text itself unchanged as accepted
 content. Removed the corresponding "Contains one AI-generated
 conclusion marked NEEDS REVIEW" note from that source's entry under the
 Industry Trends subheading of `wiki/index.md`.
+
+## [2026-09-18] ingest | Grocery Dive — Why Specialty Grocers Are Thriving Post-Pandemic
+
+Ingested the article at
+https://www.grocerydive.com/news/specialty-grocers-post-covid-pandemic-inflation-health-wellness-Sprouts-Farmers-Market-Whole-Foods/808272/
+(published December 18, 2025, by Peyton Bigora). Verified all cited
+statistics and quotes against the raw page HTML (downloaded to the
+scratchpad directory) before writing anything. Created
+`wiki/sources/grocerydive-specialty-grocers-thriving-2025.md`,
+summarizing the article's explanation for specialty grocers'
+post-pandemic outperformance: Placer.ai foot-traffic data, Sprouts'
+2020–2022 comp-sales dip and recovery, and named-source commentary
+(Errol Schweizer, James Ren, Stewart Samuel) on price inflation, wealth
+bifurcation, organic price-gap narrowing, private label, loyalty-program
+personalization, and curated assortment. Includes one AI-generated
+conclusion connecting these growth drivers to Meridian's stated
+strategy and flagging the NDA boundary on checking wealth-bifurcation
+claims against Meridian's own customer data, marked NEEDS REVIEW
+pending the user's decision. Added to the Industry Trends subheading of
+the Sources section in `wiki/index.md`. No existing entity, concept, or
+analysis pages required updates.

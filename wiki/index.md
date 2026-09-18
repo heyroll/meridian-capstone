@@ -68,6 +68,12 @@ maintained.
   grocery-anchored real estate fundamentals (3.5% vacancy, minimal new
   supply, rising rents), 2024 grocer expansion by chain (including
   Sprouts' 35 new stores), and notable grocery M&A activity.
+- ["Grocery Dive: Why Specialty Grocers Are Thriving Post-Pandemic"](sources/grocerydive-specialty-grocers-thriving-2025.md)
+  — **(grocerydive.com: December 18, 2025)** — Grocery Dive article on
+  why specialty grocers (Sprouts, Whole Foods, Natural Grocers) have
+  outperformed post-pandemic: wealth bifurcation, price inflation,
+  health/wellness demand, private label, and loyalty personalization.<br>
+  Contains one AI-generated conclusion marked NEEDS REVIEW.
 
 ### Demographics
 
