@@ -10,7 +10,7 @@
 
 - Two Yelp reviews of the Amazon Fresh Pasadena location (3425 E
   Colorado Blvd) — the same store reported closing in
-  [`wiki/sources/amazon-fresh-california-closures-2026.md`](amazon-fresh-california-closures-2026.md).
+  ["Amazon Fresh and Amazon Go Stores Closing in California"](amazon-fresh-california-closures-2026.md).
 - **Yelp user "Jenny K."** (Los Angeles, CA), reviewed March 2, 2026 —
   said she'd heard the location's last day of operation was
   **03/13/2026** — a reviewer-reported account, not an official Amazon
@@ -34,13 +34,13 @@
 
 ## Relevance to Meridian
 
-> **NEEDS REVIEW — AI-generated conclusion, not stated in the source.**
+> **AI-generated conclusion, not stated in the source.**
 > Neither review mentions Meridian Markets. The paragraph below connects
 > these reviews to Meridian's situation and is the agent's own
 > inference.
 
 These reviews narrow the closure-date question left open by
-[`wiki/sources/amazon-fresh-california-closures-2026.md`](amazon-fresh-california-closures-2026.md)
+["Amazon Fresh and Amazon Go Stores Closing in California"](amazon-fresh-california-closures-2026.md)
 (which did not specify closure dates): the Pasadena Amazon Fresh was
 closed by at least March 16, 2026, with a reviewer-reported last day of
 March 13, 2026 that should be treated as unconfirmed pending an official

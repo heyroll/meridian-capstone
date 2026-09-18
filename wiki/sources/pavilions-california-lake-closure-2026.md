@@ -28,18 +28,13 @@
 
 ## Relevance to Meridian
 
-> **NEEDS REVIEW — AI-generated conclusion, not stated in the source.**
-> The article never mentions Meridian Markets. The paragraph below
-> connects its facts to Meridian's situation and is the agent's own
-> inference, not a claim the article itself makes.
-
 This is a mixed signal for Meridian's Pasadena decision. On one hand, an
 upscale/specialty-adjacent grocery format failing to sustain its lease
 economics at this Pasadena location, after nearly 50 years, is a
 cautionary data point about specialty grocery viability in this specific
-market — worth weighing against the concurrent Sprouts expansion
-(`wiki/sources/sprouts-pasadena-expansion-2026.md`), which points the
-other way. On the other hand, the vacated space itself could be a
+market — worth weighing against the concurrent
+[Sprouts expansion](sprouts-pasadena-expansion-2026.md), which points
+the other way. On the other hand, the vacated space itself could be a
 real-estate opportunity for Meridian, though the article's open question
 about restrictive covenants means it's not yet known whether a
 competing grocer (which Meridian would be, relative to Vons/Albertsons)

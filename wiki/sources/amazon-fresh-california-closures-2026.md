@@ -31,17 +31,12 @@
 
 ## Relevance to Meridian
 
-> **NEEDS REVIEW — AI-generated conclusion, not stated in the source.**
+> **AI-generated conclusion, not stated in the source.**
 > The article never mentions Meridian Markets. The paragraph below
 > connects its facts to Meridian's situation and is the agent's own
 > inference, not a claim the article itself makes.
 
-This is the third Pasadena-area grocery signal in the wiki, alongside
-Sprouts' pending Pasadena expansion
-([`wiki/sources/sprouts-pasadena-expansion-2026.md`](sprouts-pasadena-expansion-2026.md))
-and the Pavilions closure at California/Lake
-([`wiki/sources/pavilions-california-lake-closure-2026.md`](pavilions-california-lake-closure-2026.md)). Unlike the
-Pavilions closure, this one is not evidence about the Pasadena market
+This article is not evidence about the Pasadena market
 specifically — it's part of a blanket, nationwide-strategy-driven
 closure of Amazon's entire Fresh/Go format across 22 California stores,
 so it says little about whether Pasadena itself can sustain grocery

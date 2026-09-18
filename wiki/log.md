@@ -165,3 +165,173 @@ this upgrades the certainty of that expansion from "pending filing" to
 `wiki/index.md` to add a "Sprouts" subheading (mirroring the existing
 Amazon Fresh subheading under Pasadena Closures) grouping both the March
 source and this new confirmation source together.
+
+## [2026-09-17] ingest | Census QuickFacts — Pasadena Income
+
+Ingested two income figures from the same U.S. Census Bureau QuickFacts
+page for Pasadena city, California used for the population source
+(https://www.census.gov/quickfacts/fact/table/pasadenacitycalifornia/PST040225),
+figures supplied directly by the user. Created
+`wiki/sources/census-quickfacts-pasadena-income-2026.md`, stating median
+household income (in 2024 dollars), 2020-2024 ($105,192) and per capita
+income in the past 12 months (in 2024 dollars), 2020-2024 ($65,304).
+Kept as a separate page from the population source since it covers a
+different topic from the same table. Matching the population page, this
+page states facts only, with no "Relevance to Meridian" section and no
+AI-generated conclusion. Added to the Demographics subheading of the
+Sources section in `wiki/index.md`. No existing entity, concept, or
+analysis pages required updates.
+
+## [2026-09-17] edit | Consolidated the two Census QuickFacts source pages
+
+At the user's request, merged `wiki/sources/census-quickfacts-pasadena-population-2026.md`
+and `wiki/sources/census-quickfacts-pasadena-income-2026.md` into a
+single new page, `wiki/sources/census-quickfacts-pasadena-population-income-2026.md`,
+under the title "Census QuickFacts: Pasadena, California — Population &
+Income," with a "Population" section and an "Income" section carrying
+over the same facts and notes unchanged. This reverses the prior
+decision (recorded in the two entries above) to keep them as separate
+pages. Deleted the two old source files and updated the Demographics
+subheading of the Sources section in `wiki/index.md` to a single entry
+pointing at the merged page, using that title as its link text. No
+existing entity, concept, or analysis pages required updates.
+
+## [2026-09-17] ingest | FMI — Study Highlights Grocery Stores' Expanding Role in Convenient, Affordable Dining
+
+Ingested the FMI press release at
+https://www.fmi.org/newsroom/news-archive/view/2025/10/07/study-highlights-grocery-stores--expanding-role-in-convenient--affordable-dining
+(published October 7, 2025; a separate URL for a Restaurant Business
+Online article on the same topic was initially requested but abandoned
+by the user after WebFetch was blocked with an HTTP 403). Fetched via
+WebFetch, then verified all four cited statistics and three named
+quotes against the raw HTML (downloaded to the scratchpad directory)
+before writing anything. Created
+`wiki/sources/fmi-deli-restaurant-competitor-2025.md`, summarizing the
+report's finding that deli-prepared food preference over restaurant
+meals rose from 12% (2017) to 28% (2025), the 53% hybrid-meal stat, the
+1.6% retail foodservice sales growth to $52.1 billion, the noon–5 p.m.
+peak purchase window, and quotes from three named FMI staff. The page
+flags that the source is FMI's own promotional press release for a
+report it sells, and includes one AI-generated conclusion connecting
+the prepared-foods trend to Meridian's stated strategy, marked NEEDS
+REVIEW pending the user's decision. Added to the Industry Trends
+subheading of the Sources section in `wiki/index.md`. No existing
+entity, concept, or analysis pages required updates.
+
+## [2026-09-17] edit | Approved the NEEDS REVIEW conclusion on the FMI source page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/fmi-deli-restaurant-competitor-2025.md`: removed the
+**NEEDS REVIEW** mark, keeping the conclusion text itself unchanged as
+accepted content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry in the
+Industry Trends subheading of `wiki/index.md`.
+
+## [2026-09-17] edit | Approved the NEEDS REVIEW conclusion on the ICSC source page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/icsc-grocery-formats-2026.md`: removed the **NEEDS
+REVIEW** mark, keeping the conclusion text itself unchanged as accepted
+content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry in the
+Industry Trends subheading of `wiki/index.md`.
+
+## [2026-09-17] edit | Approved the NEEDS REVIEW conclusion on the Sprouts Hill Avenue confirmation page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/sprouts-hill-avenue-confirmation-2026.md`: removed the
+**NEEDS REVIEW** mark, keeping the conclusion text itself unchanged as
+accepted content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry under the
+Sprouts subheading of the Pasadena Expansions section in
+`wiki/index.md`. The page's separate "PAGE STATUS: NEEDS CLEANUP" note
+(on redundant content in the Key facts section) was left untouched, as
+it is unrelated to this request.
+
+## [2026-09-17] edit | Resolved redundancy and removed cleanup flag on the Sprouts Hill Avenue confirmation page
+
+At the user's request, rewrote bullet 4 under "Key facts from the
+article" in `wiki/sources/sprouts-hill-avenue-confirmation-2026.md` to
+the user's supplied wording on Cole's store-count comparison (Sprouts'
+~500 stores nationwide vs. ~2,200 for Albertsons/Vons and ~2,700 for
+Kroger/Ralphs, and the "giants" taking "an ever-growing share of
+grocery sales"), verified against the article's raw text via WebFetch
+before writing. This removed the overlap with bullet 5's zoning-code
+quote that the page's "PAGE STATUS: NEEDS CLEANUP" note had flagged, so
+that note was removed at the user's request.
+
+## [2026-09-17] edit | Approved the NEEDS REVIEW conclusion on the Sprouts Pasadena expansion page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/sprouts-pasadena-expansion-2026.md`: removed the **NEEDS
+REVIEW** mark, keeping the conclusion text itself unchanged as accepted
+content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry under the
+Sprouts subheading of the Pasadena Expansions section in
+`wiki/index.md`.
+
+## [2026-09-17] edit | Approved the NEEDS REVIEW conclusion on the Pavilions closure page, and activated a cross-reference link
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/pavilions-california-lake-closure-2026.md`: removed the
+**NEEDS REVIEW** mark, keeping the conclusion text itself unchanged as
+accepted content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry under the
+Pasadena Closures section in `wiki/index.md`. Also, in that same
+"Relevance to Meridian" paragraph, turned the plain-text reference to
+`wiki/sources/sprouts-pasadena-expansion-2026.md` into an active
+markdown link ("Sprouts expansion").
+
+## [2026-09-17] edit | Approved the NEEDS REVIEW conclusion on the LoopNet listing page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/loopnet-3405-3425-colorado-blvd-listing-2026.md`: removed
+the **NEEDS REVIEW** mark, keeping the conclusion text itself unchanged
+as accepted content. Removed the corresponding "Contains one
+AI-generated conclusion marked NEEDS REVIEW" note from that source's
+entry under the Amazon Fresh subheading of the Pasadena Closures
+section in `wiki/index.md`.
+
+## [2026-09-18] edit | Approved the NEEDS REVIEW conclusion on the Yelp reviews page, and fixed link display text
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/yelp-amazon-fresh-pasadena-reviews-2026.md`: removed the
+**NEEDS REVIEW** mark, keeping the conclusion text itself unchanged as
+accepted content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry under the
+Amazon Fresh subheading of the Pasadena Closures section in
+`wiki/index.md`. Also changed both links on that page pointing to
+`wiki/sources/amazon-fresh-california-closures-2026.md` (in the Key
+facts and Relevance to Meridian sections) to display that page's title,
+"Amazon Fresh and Amazon Go Stores Closing in California," instead of
+the raw file path.
+
+## [2026-09-18] edit | Trimmed the Relevance to Meridian paragraph on the Amazon Fresh closures page
+
+At the user's request, edited the "Relevance to Meridian" paragraph on
+`wiki/sources/amazon-fresh-california-closures-2026.md`: removed its
+first sentence (which framed this as "the third Pasadena-area grocery
+signal in the wiki," cross-referencing the Sprouts and Pavilions
+source pages), and changed the opening of the following sentence from
+"Unlike the Pavilions closure, this one" to "This article." The
+paragraph's substance — that this is a blanket, nationwide-strategy
+closure rather than Pasadena-specific evidence — is otherwise
+unchanged. The conclusion remains marked NEEDS REVIEW.
+
+## [2026-09-18] edit | Approved the NEEDS REVIEW conclusion on the Amazon Fresh closures page
+
+At the user's request, approved the AI-generated conclusion in the
+"Relevance to Meridian" section of
+`wiki/sources/amazon-fresh-california-closures-2026.md`: removed the
+**NEEDS REVIEW** mark, keeping the conclusion text itself unchanged as
+accepted content. Removed the corresponding "Contains one AI-generated
+conclusion marked NEEDS REVIEW" note from that source's entry under the
+Amazon Fresh subheading of the Pasadena Closures section in
+`wiki/index.md`.

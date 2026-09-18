@@ -4,12 +4,6 @@
 **Published:** September 9, 2026
 **Ingested:** 2026-09-17
 
-> **PAGE STATUS: NEEDS CLEANUP.** Redundant content between the
-> commentary bullet and the added verbatim-quote bullet under "Key
-> facts from the article" has not yet been resolved (left redundant on
-> request, 2026-09-17). Resolve and remove this note before this page
-> is considered final.
-
 [← Back to the wiki index](../index.md)
 
 ## Key facts from the article
@@ -25,20 +19,16 @@
   "soon."
 - The article states Sprouts already operates another location at 39 N.
   Rosemead Blvd in Pasadena.
-- Cole used the announcement as an occasion for broader commentary on
-  local economic health in his newsletter, comparing Sprouts' roughly
-  500 stores nationwide to larger chains (Walmart, Amazon/Whole Foods,
-  Costco). Per the article, "Pasadena's zoning code, he wrote, 'has
-  grown to 300,000 words,' leaving anyone opening a business to
-  navigate 'a blizzard of often obsolete or even absurd rules,' collect
-  numerous permits and pay heavily for the privilege." "Large companies
-  dislike the same rules, he wrote, but either avoid Pasadena or absorb
-  the cost." He also wrote that "the deck is often stacked against
-  small local businesses," and that local merchants "make a priceless
-  contribution to Pasadena's unique sense of place," expressing hope
-  that residents would support both Sprouts and local merchants. This
-  commentary is the councilmember's own opinion, not a verified market
-  fact, and is kept separate from the factual claims above.
+- Cole implied Sprouts was a small business with about 500 stores
+  nationwide compared to the roughly 2,200 for Albertsons and Vons and
+  2,700 for Kroger and Ralphs. Larger "giants" (Walmart, Amazon/Whole
+  Foods, Costco) are "taking an ever-growing share of grocery sales."
+  He also wrote that "the deck is often stacked against small local
+  businesses," and that local merchants "make a priceless contribution
+  to Pasadena's unique sense of place," expressing hope that residents
+  would support both Sprouts and local merchants. This commentary is
+  the councilmember's own opinion, not a verified market fact, and is
+  kept separate from the factual claims above.
 - Per the article, "Cole's second emphasis was regulatory. Pasadena's
   zoning code, [Cole] wrote, 'has grown to 300,000 words,' leaving
   anyone opening a business to navigate 'a blizzard of often obsolete
@@ -48,7 +38,7 @@
 
 ## Relevance to Meridian
 
-> **NEEDS REVIEW — AI-generated conclusion, not stated in the source.**
+> **AI-generated conclusion, not stated in the source.**
 > The article never mentions Meridian Markets. The paragraph below
 > connects its facts to Meridian's situation and is the agent's own
 > inference.

@@ -21,27 +21,23 @@ maintained.
   - ["Amazon Fresh and Amazon Go Stores Closing in California"](sources/amazon-fresh-california-closures-2026.md)
     — **(abc10.com: January 27, 2026)** — ABC10 article on Amazon's
     closure of all 22 California Amazon Fresh/Go stores, including its
-    Pasadena location at 3425 E Colorado Blvd.<br>
-    Contains one AI-generated conclusion marked NEEDS REVIEW.
+    Pasadena location at 3425 E Colorado Blvd.
   - [Amazon Fresh Pasadena — Yelp Reviews](sources/yelp-amazon-fresh-pasadena-reviews-2026.md)
     — **(yelp.com: March 2 & 16, 2026)** — Two Yelp reviews of the
     Amazon Fresh Pasadena location, narrowing its closure date to on or
     before March 16, 2026, with a reviewer-reported (unconfirmed) last
-    day of March 13, 2026.<br>
-    Contains one AI-generated conclusion marked NEEDS REVIEW.
+    day of March 13, 2026.
   - [3405–3425 E Colorado Blvd, Pasadena — LoopNet Listing](sources/loopnet-3405-3425-colorado-blvd-listing-2026.md)
     — **(loopnet.com: found online September 16, 2026)** — LoopNet
     sublease listing for 3405–3425 E Colorado Blvd, Pasadena (the same
     address as the closed Amazon Fresh): 41,990 SF, 3.80 acres, built
-    1971, in the Lamanda Park trade area.<br>
-    Contains one AI-generated conclusion marked NEEDS REVIEW.
+    1971, in the Lamanda Park trade area.
 - **Others**
   - ["Pavilions at California and Lake to Close After Decades Serving Pasadena Community"](sources/pavilions-california-lake-closure-2026.md)
     — **(coloradoboulevard.net: July 8, 2026)** — ColoradoBoulevard.net
     article on the closure of the Pavilions at 845 E. California Blvd,
     Pasadena, effective September 5, 2026, citing lease expiration and
-    underperformance.<br>
-    Contains one AI-generated conclusion marked NEEDS REVIEW.
+    underperformance.
 
 ### Pasadena Expansions
 
@@ -49,31 +45,34 @@ maintained.
   - ["Sprouts Farmers Market Expanding to Pasadena and Highland Park"](sources/sprouts-pasadena-expansion-2026.md)
     — **(coloradoboulevard.net: March 11, 2026)** — ColoradoBoulevard.net
     article on Sprouts Farmers Market's pending first Pasadena store and
-    planned Highland Park location.<br>
-    Contains one AI-generated conclusion marked NEEDS REVIEW.
+    planned Highland Park location.
   - ["Councilmember Confirms Sprouts Will Fill Vacant Rite Aid on Hill Avenue"](sources/sprouts-hill-avenue-confirmation-2026.md)
     — **(pasadenanow.com: September 9, 2026)** — Pasadena Now article
     reporting a councilmember's public confirmation that Sprouts will
     fill the vacant Rite Aid on Hill Avenue — the same location flagged
-    as a pending application in the source above.<br>
-    Contains one AI-generated conclusion marked NEEDS REVIEW.
+    as a pending application in the source above.
 
 ### Industry Trends
 
 - ["ICSC: Grocery Strategies Shift — New Formats, Store Growth, and Investment"](sources/icsc-grocery-formats-2026.md)
   — **(icsc.com: April 24, 2026)** — ICSC/Commerce + Communities Today
   article on specialty grocer performance, smaller-footprint formats,
-  and grocery-anchored real estate investment trends.<br>
-  Contains one AI-generated conclusion marked NEEDS REVIEW.
+  and grocery-anchored real estate investment trends.
+- ["FMI: Study Highlights Grocery Stores' Expanding Role in Convenient, Affordable Dining"](sources/fmi-deli-restaurant-competitor-2025.md)
+  — **(fmi.org: October 7, 2025)** — FMI press release on its *Power of
+  Foodservice at Retail 2025* report, showing deli-prepared foods
+  displacing restaurant meals (12% → 28% preference share, 2017–2025)
+  and noting a noon–5 p.m. peak purchase window.
 
 ### Demographics
 
-- [Census QuickFacts: Pasadena, California — Population](sources/census-quickfacts-pasadena-population-2026.md)
+- [Census QuickFacts: Pasadena, California — Population & Income](sources/census-quickfacts-pasadena-population-income-2026.md)
   — **(census.gov: accessed September 17, 2026)** — U.S. Census Bureau
-  QuickFacts population figures for Pasadena: 2010 and 2020 census
-  counts plus the 2020 estimates base and the July 1, 2025 estimate,
-  flagging the reversal from slow growth to decline. States facts
-  only — no conclusion drawn.
+  QuickFacts for Pasadena: 2010 and 2020 census population counts plus
+  the 2020 estimates base and the July 1, 2025 estimate (flagging the
+  reversal from slow growth to decline), and 2020-2024 median household
+  income ($105,192) and per capita income ($65,304), both in 2024
+  dollars. States facts only — no conclusion drawn.
 
 See [`wiki/sources/`](sources/README.md) for the full category.
 
